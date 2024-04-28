@@ -52,4 +52,4 @@ Main Background of the Project is to develop a system for the early detection an
 
 
 ## Contact
-Created by [@SandeepGitGuy] - feel free to contact me!
+Created by [@Ramkumar P] - feel free to contact me!
